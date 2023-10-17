@@ -1,6 +1,7 @@
 ---
 fr:
   spree:
+    printable_number: Numéro d'impression
     print_invoice:
       documents: Documents
       buttons:
@@ -11,6 +12,8 @@ fr:
       of: de
       via: via
       on_date: Date de commande
+      order_invoice: Facture
+      order_packaging_slip: Bordereau d'emballage
       packaging_slip: Bordereau de Livraison
       page: Page
       payment_via: "Payé en ligne le %{date} via %{gateway} - %{number}"
